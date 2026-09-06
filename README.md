@@ -62,10 +62,10 @@ And many more to come
 
 ### 💻 Languages & Tech Stack
 
-**Languages I know:** C · C++ · Python · HTML · CSS · JavaScript
+**Languages I know:** C · C++ · Python · HTML · CSS · JavaScript • SQL
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,react,nodejs,git,github,vscode,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,mysql,react,nodejs,git,github,vscode,figma&theme=dark" />
 </p>
 
 ---
