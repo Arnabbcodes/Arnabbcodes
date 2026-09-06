@@ -3,14 +3,7 @@
 <h3 align="center">A passionate Software Developer crafting intelligent systems & scalable applications</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Computer+Science+%26+Engineering+Student;AI+%2F+ML+Enthusiast;Full-Stack+Developer;Building+Cool+Things+with+Code!" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Arnabbcodes&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/Arnabbcodes?label=Followers&style=social" alt="followers" />
-</p>
-
+  Computer Science And Engineering Student</p>
 ---
 
 ### 🎓 About Me
