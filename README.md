@@ -57,8 +57,8 @@
   </tr>
 </table>
 <br>
-<p><And many more to come :)</p>
- --
+And many more to come
+ 
 
 ### 💻 Languages & Tech Stack
 
