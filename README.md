@@ -62,7 +62,7 @@ And many more to come
 
 ### 💻 Languages & Tech Stack
 
-**Languages I know:** C · C++ · Python · HTML · CSS · JavaScript • SQL
+**Languages I know:** C · C++ · Python · HTML · CSS · JavaScript • SQL •GO
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,go,js,html,css,mysql,react,nodejs,git,github,vscode,figma&theme=dark" />
