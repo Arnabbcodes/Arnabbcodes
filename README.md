@@ -55,6 +55,12 @@
       <p>A complete booking system for reserving bus tickets with seat selection and management features.</p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" colspan="2">
+      <h4>URL SHORTNER</h4>
+      <p>A simple URL Shortener API built with Go (Golang).</p>
+    </td>
+  </tr>
 </table>
 <br>
 And many more to come
